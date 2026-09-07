@@ -1,0 +1,8 @@
+python-telegram-bot
+py-clob-client-v2
+python-dotenv
+requests
+dateparser
+google-genai
+pydantic==2.46.4
+psutil
