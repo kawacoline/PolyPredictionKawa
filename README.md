@@ -1,4 +1,4 @@
-# 📈 PolyPrediction — Automated NLP Prediction Market Execution Engine
+# 📈 PolyPrediction AI — Automated NLP Prediction Market Execution Engine
 
 [![Python Version](https://img.shields.io/badge/Python-3.9%2B-blue.svg?logo=python)](https://python.org)
 [![Market Platform](https://img.shields.io/badge/Exchange-Polymarket%20CLOB-purple.svg)](https://polymarket.com)
@@ -68,8 +68,8 @@ The system consumes forwarded prediction messages from Telegram channels, dynami
 
 ### 2. Clone & Provision Environment
 ```bash
-git clone https://github.com/kawacoline/PolyPredictionKawa.git
-cd PolyPredictionKawa
+git clone https://github.com/kawacoline/PolyPrediction-AI.git
+cd PolyPrediction-AI
 setup.bat
 ```
 
